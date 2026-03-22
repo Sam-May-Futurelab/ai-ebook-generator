@@ -39,7 +39,7 @@ This project showcases an AI-powered ebook generator that turns a single idea in
 
 Most people never finish writing.
 
-This tool removes friction — so you can go from idea → finished book fast.
+This tool removes friction, so you can go from idea → finished book fast.
 
 ---
 

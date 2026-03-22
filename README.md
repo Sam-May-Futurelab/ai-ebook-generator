@@ -35,12 +35,6 @@ This project showcases an AI-powered ebook generator that turns a single idea in
 
 ---
 
-## Example Output
-
-(Add screenshots here of your dashboard + ebook)
-
----
-
 ## Why this exists
 
 Most people never finish writing.
